@@ -2,29 +2,19 @@
   MCTools
 </h1>
 <p align="center">
-    <a href="https://mctools.mullak99.co.uk" alt="MCTools Stable">
         <img src="https://github.com/mullak99/MCTools/actions/workflows/master_deploy.yml/badge.svg" />
-    </a>
-    <a href="https://mctools-beta.mullak99.co.uk" alt="MCTools Beta">
         <img src="https://github.com/mullak99/MCTools/actions/workflows/beta_deploy.yml/badge.svg" />
-    </a>
-	<a href="https://mctools-api.mullak99.co.uk/swagger" alt="MCTools API Stable">
-        <img src="https://github.com/mullak99/MCTools/actions/workflows/api_master_deploy.yml/badge.svg" />
-    </a>
-    <a href="https://mctools-api-beta.mullak99.co.uk/swagger" alt="MCTools API Beta">
+        <img src="https://github.com/mullak99/MCTools/actions/workflows/api_master_deploy.yml/badge.svg" /><br>
         <img src="https://github.com/mullak99/MCTools/actions/workflows/api_beta_deploy.yml/badge.svg" />
-    </a>
-    <a href="https://github.com/mullak99/MCTools/issues" alt="MCTools Issues">
-        <img src="https://img.shields.io/github/issues/mullak99/MCTools" />
-    </a>
-    <a href="https://github.com/mullak99/MCTools/pulls" alt="MCTools Pull Requests">
-        <img src="https://img.shields.io/github/issues-pr/mullak99/MCTools" />
-    </a>
-    <a href="https://github.com/mullak99/MCTools/stargazers" alt="MCTools Stars">
-        <img src="https://img.shields.io/github/stars/mullak99/MCTools" />
+        <img src="https://img.shields.io/github/issues/DJStompZone/MCTools" />
+        <img src="https://img.shields.io/github/issues-pr/DJStompZone/MCTools" /><br>
+        <img src="https://img.shields.io/github/stars/DJStompZone/MCTools" />
+	<a href="https://discord.stomp.zone" alt="StompZone Discord">
+        <img src="https://img.shields.io/discord/599808270655291403?logo=discord&label=StompZone%20Discord" />
     </a>
 </p>
 
+ 
 A web app for a few Minecraft-related tools, specifically for resource packs.
 
 ### Links (Web App)
